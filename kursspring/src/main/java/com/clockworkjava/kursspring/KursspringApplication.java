@@ -12,7 +12,7 @@ public class KursspringApplication {
 
 	public static void main(String[] args) {
 		        SpringApplication.run(KursspringApplication.class, args);
-                          
+		        System.out.println("Arek");
                           
 	} 
 }   
