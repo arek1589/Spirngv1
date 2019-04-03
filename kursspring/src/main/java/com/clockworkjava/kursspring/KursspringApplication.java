@@ -14,6 +14,8 @@ public class KursspringApplication {
 		        SpringApplication.run(KursspringApplication.class, args);
 		        System.out.println("Arek i Patryk");
 		        System.out.println("Factory beauty");
+		        System.out.println("hejjj");
+
 
 	} 
 }   
