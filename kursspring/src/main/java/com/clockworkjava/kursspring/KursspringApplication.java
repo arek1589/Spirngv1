@@ -13,8 +13,7 @@ public class KursspringApplication {
 	public static void main(String[] args) {
 		        SpringApplication.run(KursspringApplication.class, args);
 		        System.out.println("Arek i Patryk");
-		        System.out.println("Factory beauty");
-		        System.out.println("hejjj");
+		     
 
 
 	} 
